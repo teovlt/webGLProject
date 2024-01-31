@@ -1,0 +1,19 @@
+{
+  "name": "webglproject",
+  "version": "1.0.0",
+  "description": "My first webGL project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server --open"
+  },
+  "author": "villett",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.11.3"
+  },
+  "dependencies": {
+    "mathjs": "^12.3.0"
+  }
+}
