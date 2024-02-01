@@ -186,10 +186,9 @@ function drawScene() {
   // Les objets sont numFs copies d'un F sur le cercle de rayon radius
   // ...
 
-  drawObjects(positionGroundBuffer, colorGroundBuffer, translation(0, 0, 0), 6)
-
   drawObjects(positionTowerBuffer, colorTowerBuffer, translation(0, 0, 0), 36)
 
+  drawObjects(positionGroundBuffer, colorGroundBuffer, translation(0, 0, 0), 6)
   // drawObjects(positionPyramideBuffer, colorPyramideBuffer, translation(-180, 45, 67), 12)
   // Mettre une pyramide dans chaque coin
   drawObjects(positionPyramideBuffer, colorPyramideBuffer, translation(-200, 45, 200), 12)
