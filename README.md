@@ -1,4 +1,4 @@
-**VILLET Téo - A22 - WebGL Project**
+**VILLET Téo - WebGL Project**
 
 To launch the project enter the following commands :
 
