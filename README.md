@@ -6,10 +6,10 @@ To launch the project enter the following commands :
 $ npm i
 ```
 
-Then enter this one and visit the ulg said in your shell
+Then enter this one and visit the url said in your shell
 
 ```bash
-$ npx vite -y
+$ npx vite
 ```
 
-Have fun watching cube flying ! :)
+Have fun watching cubes flying around (it took me 20 hours...)
